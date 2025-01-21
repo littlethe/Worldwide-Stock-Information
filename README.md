@@ -1,2 +1,2 @@
 # Worldwide-Stock-Information
-Getting information of worldwide stocks and ETFs by using yfinance
+Getting information of worldwide stocks and ETFs by using yfinance.
